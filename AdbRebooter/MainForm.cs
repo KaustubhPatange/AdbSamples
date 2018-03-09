@@ -33,7 +33,7 @@ namespace ADB_Project
 		/// This is a function through which we pass the commands the cmd.exe explicitly for running various task.
 		/// Usage:- run_process(@"adb.exe reboot recovery");
 		/// </summary>
-		/// <param name="Arguments"></param>
+		/// <param name="Commands"></param>
 		public void run_process(string Commands)
 		{
 			var p = new Process(); // Declaring new process

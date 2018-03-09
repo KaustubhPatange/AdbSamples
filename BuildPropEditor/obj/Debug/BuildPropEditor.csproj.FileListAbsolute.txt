@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BuildPropEditor\bin\Debug\BuildPropEditor.exe.config
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BuildPropEditor\bin\Debug\BuildPropEditor.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BuildPropEditor\bin\Debug\BuildPropEditor.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BuildPropEditor\obj\Debug\BuildPropEditor.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BuildPropEditor\obj\Debug\BuildPropEditor.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BuildPropEditor\obj\Debug\BuildPropEditor.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BuildPropEditor\obj\Debug\BuildPropEditor.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BuildPropEditor\obj\Debug\BuildPropEditor.pdb

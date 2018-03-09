@@ -53,8 +53,8 @@ namespace DeviceChecker
 		
 		public bool isConnected()
 		{
-			var check = run_process("adb.exe devices"); // Will check for connected devices and set it to a string
-			if (String.IsNullOrEmpty(check)) // If string is empty that means no device connected else Device is connected
+			var check = run_process("adb.exe get-serialno"); // Will check for connected devices and set it to a string
+			if (check.Contains("unknown")) // If string is empty that means no device connected else Device is connected
 			{
 				// If Not Connected
 				pictureBox1.BackColor = Color.Red; // Change Color of Picture Box
