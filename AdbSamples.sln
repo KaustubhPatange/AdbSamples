@@ -4,6 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # SharpDevelop 5.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdbRebooter", "AdbRebooter\AdbRebooter.csproj", "{4AA81F5D-BA90-40E7-B438-F7CD2B6B9A04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDeviceInfo", "BasicDeviceInfo\BasicDeviceInfo.csproj", "{6D09B715-EDB8-44D2-8160-6E38593965BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,5 +16,9 @@ Global
 		{4AA81F5D-BA90-40E7-B438-F7CD2B6B9A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AA81F5D-BA90-40E7-B438-F7CD2B6B9A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AA81F5D-BA90-40E7-B438-F7CD2B6B9A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D09B715-EDB8-44D2-8160-6E38593965BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D09B715-EDB8-44D2-8160-6E38593965BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D09B715-EDB8-44D2-8160-6E38593965BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D09B715-EDB8-44D2-8160-6E38593965BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

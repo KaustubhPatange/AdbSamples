@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BasicDeviceInfo\bin\Debug\BasicDeviceInfo.exe.config
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BasicDeviceInfo\bin\Debug\BasicDeviceInfo.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BasicDeviceInfo\bin\Debug\BasicDeviceInfo.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BasicDeviceInfo\obj\Debug\BasicDeviceInfo.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BasicDeviceInfo\obj\Debug\BasicDeviceInfo.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BasicDeviceInfo\obj\Debug\BasicDeviceInfo.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BasicDeviceInfo\obj\Debug\BasicDeviceInfo.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\BasicDeviceInfo\obj\Debug\BasicDeviceInfo.pdb

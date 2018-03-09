@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\AdbRebooter\bin\Debug\AdbRebooter.exe.config
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\AdbRebooter\bin\Debug\AdbRebooter.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\AdbRebooter\bin\Debug\AdbRebooter.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\AdbRebooter\obj\Debug\AdbRebooter.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\AdbRebooter\obj\Debug\ADB_Project.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\AdbRebooter\obj\Debug\AdbRebooter.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\AdbRebooter\obj\Debug\AdbRebooter.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\AdbRebooter\obj\Debug\AdbRebooter.pdb
