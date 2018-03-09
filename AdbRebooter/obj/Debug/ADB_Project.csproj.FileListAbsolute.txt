@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\ADB_Project\ADB_Project\bin\Debug\ADB_Project.exe.config
+C:\Users\Dell\Documents\SharpDevelop Projects\ADB_Project\ADB_Project\bin\Debug\ADB_Project.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\ADB_Project\ADB_Project\bin\Debug\ADB_Project.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\ADB_Project\ADB_Project\obj\Debug\ADB_Project.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\ADB_Project\ADB_Project\obj\Debug\ADB_Project.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\ADB_Project\ADB_Project\obj\Debug\ADB_Project.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\ADB_Project\ADB_Project\obj\Debug\ADB_Project.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\ADB_Project\ADB_Project\obj\Debug\ADB_Project.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\Adb_Project\bin\Debug\Adb_Project.exe.config
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\Adb_Project\bin\Debug\Adb_Project.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\Adb_Project\bin\Debug\Adb_Project.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\Adb_Project\obj\Debug\Adb_Project.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\Adb_Project\obj\Debug\Adb_Project.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\Adb_Project\obj\Debug\Adb_Project.pdb
