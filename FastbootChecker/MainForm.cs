@@ -1,14 +1,17 @@
 ﻿/*
- * Read Comments
+ * Read the comments
  * 
- * Components
+ * Components:
  *    1. 3 Labels
  *    2. 1 GroupBox
  *    3. 1 Button
  * 
  * What we are trying to achieve?
- * -- By clicking on the button it will check the device if it is connected or not. If yes then it will change the color of pictureBox
- *    to green and further using process we will check its status else it will change color of picturebox to Red.
+ * -- By clicking on the button it will check the device if it is connected in Fastboot or not. If yes then it will change the color of pictureBox
+ *    to Blue.
+ *    You also must provide the vendor ID of the device
+ *       https://android.googlesource.com/platform/system/core/+/android-4.4_r1/adb/usb_vendors.c
+ *       Visit this to see some command vendor ID's of some devices :)
  */
 using System;
 using System.Collections.Generic;
@@ -16,7 +19,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Diagnostics;
 
-namespace DeviceChecker
+namespace FastbootChecker
 {
 	/// <summary>
 	/// Description of MainForm.
@@ -52,43 +55,46 @@ namespace DeviceChecker
 		}
 		
 		/// <summary>
-		/// This is a function which tells if device is connected or not
-		/// Usage: if (isConnected()){  // do your stuffs }
+		/// This is a function which tells if device is connected in fastboot or not
+		/// Usage: if (isFastbootMode()){  // do your stuffs }
 		/// </summary>
 		/// <returns></returns>
-		public bool isConnected()
+		public bool isFastbootMode(string vendorID) // This is a unique ID, different for different devices. For Coolpad it is 0x1ebf
 		{
-			var check = run_process("adb.exe get-serialno"); // Will check for connected devices and set it to a string
-			if (check.Contains("unknown")) // If string Contains 'unknown' means no device connected
+			string check=null; // Start variable declaration as null
+			if (vendorID==null) // If vendor id is null normal command else use vendor with -i argument
+				check = run_process("fastboot.exe devices");
+			else
+				check = run_process("fastboot.exe -i " + vendorID + " devices");
+			if (string.IsNullOrEmpty(check)) // If string is empty that means no device connected else Device is connected
 			{
 				// If Not Connected
 				pictureBox1.BackColor = Color.Red; // Change Color of Picture Box
 				label1.Text = "Device Not Connected!";
-				status.Text = "---";
 				return false; // Returning boolean value
 			}
 			else
 			{
 				// If Connected, we will also check its status
-				pictureBox1.BackColor = Color.Green;
+				pictureBox1.BackColor = Color.Blue;
 				label1.Text = "Device Connected!";
-				status.Text = run_process("adb.exe get-state"); // This will check status of device i.e Android, Recovery, Sideload, etc
-				return true;  // Returning boolean value
+ 				return true;  // Returning boolean value
 			}
 			
 		}
 		
 		/// <summary>
-		/// By clicking this button we will check our device if it is connected or not.
+		/// When clicked on this will show if device is connected or not
 		/// </summary>
 		/// <param name="sender"></param>
 		/// <param name="e"></param>
 		void Button1Click(object sender, EventArgs e)
 		{
-			if (isConnected())
+			if (isFastbootMode(null)) // Fill this with your vendor ID, For Coolpad it is 0x1ebf
 			{
-				// It is Connected, do your stuff in this loop
+				// TODO: Your Stuff here
 			}
 		}
 	}
+	
 }

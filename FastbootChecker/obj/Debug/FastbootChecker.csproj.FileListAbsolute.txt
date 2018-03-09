@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\FastbootChecker\bin\Debug\FastbootChecker.exe.config
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\FastbootChecker\bin\Debug\FastbootChecker.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\FastbootChecker\bin\Debug\FastbootChecker.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\FastbootChecker\obj\Debug\FastbootChecker.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\FastbootChecker\obj\Debug\FastbootChecker.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\FastbootChecker\obj\Debug\FastbootChecker.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\FastbootChecker\obj\Debug\FastbootChecker.pdb
