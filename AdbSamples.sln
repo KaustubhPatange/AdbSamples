@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdbRebooter", "AdbRebooter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDeviceInfo", "BasicDeviceInfo\BasicDeviceInfo.csproj", "{6D09B715-EDB8-44D2-8160-6E38593965BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceChecker", "DeviceChecker\DeviceChecker.csproj", "{29E40633-46F9-464C-98C9-9798316A9437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,5 +22,9 @@ Global
 		{6D09B715-EDB8-44D2-8160-6E38593965BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D09B715-EDB8-44D2-8160-6E38593965BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D09B715-EDB8-44D2-8160-6E38593965BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E40633-46F9-464C-98C9-9798316A9437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E40633-46F9-464C-98C9-9798316A9437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E40633-46F9-464C-98C9-9798316A9437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E40633-46F9-464C-98C9-9798316A9437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

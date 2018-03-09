@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\DeviceChecker\bin\Debug\DeviceChecker.exe.config
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\DeviceChecker\bin\Debug\DeviceChecker.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\DeviceChecker\bin\Debug\DeviceChecker.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\DeviceChecker\obj\Debug\DeviceChecker.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\DeviceChecker\obj\Debug\DeviceChecker.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\DeviceChecker\obj\Debug\DeviceChecker.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\DeviceChecker\obj\Debug\DeviceChecker.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\DeviceChecker\obj\Debug\DeviceChecker.pdb
