@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildPropEditor", "BuildPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastbootChecker", "FastbootChecker\FastbootChecker.csproj", "{FFF7E755-03BD-4B2B-BECE-41F9FC6BD044}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootChecker", "RootChecker\RootChecker.csproj", "{D5DD3E60-07E2-43AF-8799-3746E952E731}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,5 +40,9 @@ Global
 		{FFF7E755-03BD-4B2B-BECE-41F9FC6BD044}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFF7E755-03BD-4B2B-BECE-41F9FC6BD044}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFF7E755-03BD-4B2B-BECE-41F9FC6BD044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DD3E60-07E2-43AF-8799-3746E952E731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DD3E60-07E2-43AF-8799-3746E952E731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DD3E60-07E2-43AF-8799-3746E952E731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DD3E60-07E2-43AF-8799-3746E952E731}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

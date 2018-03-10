@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\RootChecker\bin\Debug\RootChecker.exe.config
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\RootChecker\bin\Debug\RootChecker.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\RootChecker\bin\Debug\RootChecker.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\RootChecker\obj\Debug\RootChecker.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\RootChecker\obj\Debug\RootChecker.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\RootChecker\obj\Debug\RootChecker.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\RootChecker\obj\Debug\RootChecker.pdb
