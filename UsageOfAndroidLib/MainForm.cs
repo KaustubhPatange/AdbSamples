@@ -9,7 +9,7 @@
  *    ComboBox : Collections = (check that property)
  *             : DropDownStyle = DropDownList
  * 
- * Basic Device Info, Device Checker, Root Checker, Adb Rebooter all in one sample using androidlib.dll
+ * Basic Device Info, Device Checker, Root Checker, Adb Rebooter all in one sample using androidlib.dll check below
  */
 using System;
 using System.Collections.Generic;
