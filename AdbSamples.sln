@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastbootChecker", "Fastboot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootChecker", "RootChecker\RootChecker.csproj", "{D5DD3E60-07E2-43AF-8799-3746E952E731}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsageOfAndroidLib", "UsageOfAndroidLib\UsageOfAndroidLib.csproj", "{3E2330A6-3F66-431B-B2D2-96D86D115844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCheckDevice", "AutoCheckDevice\AutoCheckDevice.csproj", "{042C574B-339C-4E0C-9018-090EB8FA49F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +48,13 @@ Global
 		{D5DD3E60-07E2-43AF-8799-3746E952E731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5DD3E60-07E2-43AF-8799-3746E952E731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5DD3E60-07E2-43AF-8799-3746E952E731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2330A6-3F66-431B-B2D2-96D86D115844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2330A6-3F66-431B-B2D2-96D86D115844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2330A6-3F66-431B-B2D2-96D86D115844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2330A6-3F66-431B-B2D2-96D86D115844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042C574B-339C-4E0C-9018-090EB8FA49F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042C574B-339C-4E0C-9018-090EB8FA49F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042C574B-339C-4E0C-9018-090EB8FA49F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042C574B-339C-4E0C-9018-090EB8FA49F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
