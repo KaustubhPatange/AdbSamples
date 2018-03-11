@@ -1,9 +1,0 @@
-C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\UsageOfAndroidLib\bin\Debug\UsageOfAndroidLib.exe.config
-C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\UsageOfAndroidLib\bin\Debug\UsageOfAndroidLib.exe
-C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\UsageOfAndroidLib\bin\Debug\UsageOfAndroidLib.pdb
-C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\UsageOfAndroidLib\bin\Debug\AndroidLib.dll
-C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\UsageOfAndroidLib\obj\Debug\UsageOfAndroidLib.csprojResolveAssemblyReference.cache
-C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\UsageOfAndroidLib\obj\Debug\UsageOfAndroidLib.MainForm.resources
-C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\UsageOfAndroidLib\obj\Debug\UsageOfAndroidLib.csproj.GenerateResource.Cache
-C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\UsageOfAndroidLib\obj\Debug\UsageOfAndroidLib.exe
-C:\Users\Dell\Documents\SharpDevelop Projects\Adb_Project\UsageOfAndroidLib\obj\Debug\UsageOfAndroidLib.pdb
