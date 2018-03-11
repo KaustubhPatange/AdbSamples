@@ -25,8 +25,7 @@ namespace UsageOfAndroidLib
 	public partial class MainForm : Form
 	{
 		// Declaring some variables
-		Device device; AndroidController android=null; string serial;
-		
+		Device device; AndroidController android=null; string serial;		
 		
 		public MainForm()
 		{
